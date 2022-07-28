@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="begateway_form_hint_card_number">Kartennummer</string>
+    <string name="begateway_form_hint_expiration">Ablaufdatum</string>
+    <string name="begateway_form_hint_cardholder_name">Name auf der Karte</string>
+    <string name="begateway_cvv">CVV</string>
+    <string name="begateway_cvc">CVC</string>
+    <string name="begateway_cid">CID</string>
+    <string name="begateway_cvn">CVN</string>
+    <string name="begateway_month">Monat</string>
+    <string name="begateway_year">Jahr</string>
+    <string name="begateway_card_number_required">Kartennummer ist erforderlich</string>
+    <string name="begateway_card_number_invalid">Kartennummer ist ungültig</string>
+    <string name="begateway_cvv_required">%s ist erforderlich</string>
+    <string name="begateway_cvv_invalid">%s ist ungültig</string>
+    <string name="begateway_expiration_required">Ablaufdatum ist erforderlich</string>
+    <string name="begateway_expiration_invalid">Ablaufdatum ist ungültig</string>
+    <string name="begateway_cardholder_name_required">Name auf der Karte ist erforderlich</string>
+    <string name="begateway_savecard">Meine Daten merken</string>
+    <string name="begateway_button_pay">Bezahlen</string>
+    <string name="begateway_secure_info">Sichere Zahlungsmethode wird angeboten von %s</string>
+    <string name="begateway_ok">OK</string>
+    <string name="begateway_cancel">Abbrechen</string>
+    <string name="begateway_turn_on">Einschalten</string>
+    <string name="begateway_error">Fehler</string>
+    <string name="begateway_error_during_scanning">Beim Scannen ist ein Fehler aufgetreten</string>
+    <string name="begateway_turn_on_nfc_message">Bitte schalte NFC ein</string>
+    <string name="begateway_nfc_not_supported_message">NFC wird nicht unterstützt</string>
+    <string name="begateway_nfc_attach_bank_card">Bitte Bankkarte dem Telefon zuführen</string>
+    <string name="begateway_scan_by_camera">Mit der Kamera scannen</string>
+    <string name="begateway_scan_by_nfc">Per NFC scannen</string>
+    <string name="begateway_please_wait">Bitte warten</string>
+</resources>

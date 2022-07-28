@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="begateway_default_margin">16dp</dimen>
+    <dimen name="begateway_default_margin_small">8dp</dimen>
+    <dimen name="begateway_default_margin_big">24dp</dimen>
+
+    <dimen name="begateway_min_btn_height">56dp</dimen>
+
+    <dimen name="begateway_small_component_corner_size">12dp</dimen>
+    <dimen name="begateway_large_component_corner_size">24dp</dimen>
+
+</resources>
